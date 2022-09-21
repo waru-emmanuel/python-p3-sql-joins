@@ -344,7 +344,7 @@ Some SQL databases support two other types of joins: `RIGHT JOIN` and
 `FULL JOIN`. These are far less common than `INNER JOIN` and `LEFT JOIN` — in
 fact, SQLite doesn't support these types of joins, and it's very rare that you
 will need to use them. You can read more about these other join types
-[here][sql joins], if you're curious!
+[here](https://www.w3schools.com/sql/sql_join.asp), if you're curious!
 
 ***
 
